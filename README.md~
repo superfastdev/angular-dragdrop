@@ -1,8 +1,8 @@
 #Drag and Drop for AngularJS (with Animation)
-[![Build Status](https://api.travis-ci.org/superfastdev/angular-dragdrop.svg?branch=master)](https://travis-ci.org/superfastdev/angular-dragdrop)
+[![Build Status](https://api.travis-ci.org/codef0rmer/angular-dragdrop.svg?branch=master)](https://travis-ci.org/codef0rmer/angular-dragdrop)
 [![npm](https://img.shields.io/npm/dt/angular-dragdrop.svg)](https://www.npmjs.com/package/angular-dragdrop)
 [![npm version](https://img.shields.io/npm/v/angular-dragdrop.svg)](https://www.npmjs.com/package/angular-dragdrop)
-[![Bower version](https://img.shields.io/bower/v/angular-dragdrop.svg)](https://github.com/superfastdev/angular-dragdrop)
+[![Bower version](https://img.shields.io/bower/v/angular-dragdrop.svg)](https://github.com/codef0rmer/angular-dragdrop)
  
 ---
 
@@ -33,7 +33,7 @@ Implementing jQueryUI Drag and Drop functionality in AngularJS is easier than ev
  ```
  <span data-drag="true" jqyoui-draggable>So you think you can drag</span>
  ```
- * Finally, check out [the cool demos](http://superfastdev.github.io/angular-dragdrop/#/)
+ * Finally, check out [the cool demos](http://codef0rmer.github.io/angular-dragdrop/#/)
  * Note, use [touchpunch.js](http://touchpunch.furf.com/) to enable drag/drop on touch devices.
 
 ##Angular Draggable options
@@ -71,7 +71,7 @@ Implementing jQueryUI Drag and Drop functionality in AngularJS is easier than ev
 * **ng-model** – string – An angular model defined in a controller. Should be a JS array or object.
 
 ##How to Contribute
-* $ git clone https://github.com/superfastdev/angular-dragdrop.git
+* $ git clone https://github.com/codef0rmer/angular-dragdrop.git
 * $ cd angular-dragdrop
 * $ npm install --quiet -g karma-cli bower
 * $ sudo npm install
@@ -79,7 +79,7 @@ Implementing jQueryUI Drag and Drop functionality in AngularJS is easier than ev
 * $ npm test
 
 ##Demo
-Demo is [here](http://superfastdev.github.io/angular-dragdrop/#/)
+Demo is [here](http://codef0rmer.github.io/angular-dragdrop/#/)
 
 ###v1.0.12
   1. Supports insertInline option to simulate sortable functionality.
